@@ -2,6 +2,7 @@
 Implementation of Adaptive Sliding Mode Control for an Unmanned Surface Vehicle.
 
 To cite this work:
+```
 @ARTICLE{9383425,
   author={Gonzalez-Garcia, Alejandro and Castañeda, Herman},
   journal={IEEE Journal of Oceanic Engineering}, 
@@ -12,3 +13,4 @@ To cite this work:
   pages={1-11},
   doi={10.1109/JOE.2021.3059210}
 }
+```
